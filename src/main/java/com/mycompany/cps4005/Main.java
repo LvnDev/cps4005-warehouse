@@ -3,7 +3,6 @@ package com.mycompany.cps4005;
 import com.mycompany.cps4005.DatabaseManager;
 import com.mycompany.cps4005.dao.InventoryDAO;
 import com.mycompany.cps4005.dao.OrderDAO;
-import com.mycompany.cps4005.dao.PolicyDAO;
 import com.mycompany.cps4005.dao.ShipmentDAO;
 import com.mycompany.model.InventoryItem;
 import com.mycompany.model.Order;
