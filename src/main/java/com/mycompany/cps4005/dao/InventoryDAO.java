@@ -1,7 +1,7 @@
 package com.mycompany.cps4005.dao;
 
 import com.mycompany.cps4005.DatabaseManager;
-import com.mycompany.cps4005.InventoryItem;
+import com.mycompany.model.InventoryItem;
 
 import java.sql.*;
 import java.util.ArrayList;

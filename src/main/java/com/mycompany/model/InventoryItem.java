@@ -1,4 +1,4 @@
-package com.mycompany.cps4005;
+package com.mycompany.model;
 
 public class InventoryItem {
     private int id;
