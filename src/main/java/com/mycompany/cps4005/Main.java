@@ -20,7 +20,7 @@ public class Main {
         boolean running = true;
 
         while (running) {
-            System.out.println("\n=== St Mary’s Warehouse ===");
+            System.out.println("\n=== St Marys Warehouse ===");
             System.out.println("1. Manage Inventory");
             System.out.println("2. Process Orders");
             System.out.println("3. Track Shipments");
